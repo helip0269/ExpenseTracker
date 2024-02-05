@@ -1,0 +1,35 @@
+/* History.css */
+.history-container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .history-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .transaction-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .transaction-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
+  .transaction-item:last-child {
+    border-bottom: none;
+  }
+  
+  .transaction-details {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .transaction-amount {
+    font-weight: bold;
+  }
+  

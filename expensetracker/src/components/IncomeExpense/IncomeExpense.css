@@ -1,0 +1,26 @@
+/* IncomeExpense.css */
+
+.income-expense-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .income-tab,
+  .expense-tab {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .income-tab h3,
+  .expense-tab h3 {
+    margin-bottom: 10px;
+  }
+  
+  .income-tab p,
+  .expense-tab p {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
