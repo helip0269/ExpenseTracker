@@ -1,5 +1,6 @@
 {
   "name": "expensetracker",
+  "homepage": "https://helip0269.github.io/ExpenseTracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
