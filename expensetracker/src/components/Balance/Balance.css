@@ -1,0 +1,26 @@
+/* Balance.css */
+.balance-container {
+    background-color: #f4f4f4;
+    padding: 5px;
+    border-radius: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+  }
+  
+  .balance-amount {
+    font-size: 24px;
+  }
+  
+  @media (max-width: 768px) {
+    .balance-container {
+      padding: 10px;
+    }
+    
+    .balance-amount {
+      font-size: 18px;
+    }
+  }
+  
