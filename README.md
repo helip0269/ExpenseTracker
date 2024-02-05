@@ -1,4 +1,5 @@
 Expense Tracker
+
 Expense Tracker is a simple web application built with React.js that allows users to track their expenses and income. Users can add their expenses and income, view their transaction history, and see the total balance, income, and expenses.
 
 Features
