@@ -30,7 +30,7 @@ const ExpenseForm = ({ onAddExpense }) => {
 
   return (
     <div className="expense-form-container">
-      <h2>Add Expense</h2>
+      <h2>Add Expense/Income</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="amount">Amount:</label>
