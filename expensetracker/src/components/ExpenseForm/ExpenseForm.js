@@ -52,7 +52,7 @@ const ExpenseForm = ({ onAddExpense }) => {
             required
           />
         </div>
-        <button type="submit">Add Expense</button>
+        <button type="submit">Add Expense/Income</button>
       </form>
     </div>
   );
